@@ -1,1 +1,1 @@
-This program is a binary tree that uses recursion and helper methods to add, remove, and search for nodes. The progam also includes inorder, preorder, and postorder traversal.
+This program is a binary search tree that uses recursion and helper methods to add, remove, and search for nodes. The progam also includes inorder, preorder, and postorder traversal.
